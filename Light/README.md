@@ -1,4 +1,4 @@
-# Dark GUIStyles
+# Light GUIStyles
 
 | GUIStyle name | With Text | Without Text |
 | --- | --- | --- |

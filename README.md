@@ -29,9 +29,9 @@ Almost all of these should exist in older versions of Unity although I cannot gu
 
 The list is broken up into two parts. One for the [Light](Light/README.md) theme and one for the [Dark](Dark/README.md) theme of Unity.
 
-Click on either one and the list will load. Due to Unity having over 600 built-in styles this might take up to 15 seconds.
+Click on either one and the list will load. Due to Unity having over 600 built-in styles, this might take up to 15 seconds.
 
-Each list is has a large table with three columns. The name, the style with text and the style without text[^1].
+Each list has a large table with three columns. The name, the style with text and the style without text[^1].
 
 ### Sample
 
@@ -48,7 +48,7 @@ Once an adequate style has been found, simply copy and paste it into Unity.
 
 ### There are some styles missing!
 
-Yeah probably. My goad was not to list every style there is. Just a good number of them.
+Yeah probably. My goal was not to list every style there is. Just a good number of them.
 <br><br>
 
 ### There is nothing in this style!
@@ -57,7 +57,7 @@ Yeah probably. My goad was not to list every style there is. Just a good number 
 | --- | --- | --- |
 | <h3>WhiteLabel</h3> | ![Alt text](Dark/img/WhiteLabel_text.png) | ![Alt text](Dark/img/WhiteLabel_textless.png) |
 
-Some styles were ment only for **text** purposes. A label without text is therefor kindof empty.
+Some styles were meant for **text** purposes only. A label without text is therefore kind of empty.
 <br><br>
 
 ### There is nothing in this style! (this time really!)
@@ -66,7 +66,7 @@ Some styles were ment only for **text** purposes. A label without text is theref
 | --- | --- | --- |
 | <h3>AnimationRowEven</h3> | ![Alt text](Dark/img/AnimationRowEven_text.png) | ![Alt text](Dark/img/AnimationRowEven_textless.png) |
 
-These kind of styles are `obsolete`. They are most likely there to not break older scripts that use them.
+These kinds of styles are `obsolete`. They are most likely there to not break older scripts that use them.
 <br><br>
 
 ### If they are obsolete then why include them?
@@ -74,7 +74,7 @@ These kind of styles are `obsolete`. They are most likely there to not break old
 Exactly because they are. If someone tries to debug their code but the label won't show up, then this could be because they are using an obsolete style.
 <br><br>
 
-### This dosen't make any sense!
+### This doesn't make any sense!
 
 | GUIStyle name | With Text | Without Text |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ Exactly because they are. If someone tries to debug their code but the label won
 That's just how the style is by default. Someone forgot to set the font color to white.
 <br><br>
 
-### Why is the text cutoff?
+### Why is the text cut off?
 
 | GUIStyle name | With Text | Without Text |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ This is because the text does not contribute to the styles `layout`. If you woul
 | --- | --- | --- |
 | <h3>CN EntryInfoIcon</h3> | ![Alt text](Dark/img/CN%20EntryInfoIcon_text.png) | ![Alt text](Dark/img/CN%20EntryInfoIcon_textless.png) |
 
-Some styles do not support text. Those are usually only ment for icons. 
+Some styles do not support text. Those are usually only meant for icons. 
 <br><br>
 
 ### Then what is this?
@@ -107,5 +107,5 @@ Some styles do not support text. Those are usually only ment for icons.
 | --- | --- | --- |
 | <h3>ProjectBrowserSubAssetExpandBtn</h3> | ![Alt text](Dark/img/ProjectBrowserSubAssetExpandBtn_text.png) | ![Alt text](Dark/img/ProjectBrowserSubAssetExpandBtn_textless.png) |
 
-Those icons scale with the size of the element. Since there are two tabs even in the text-less version it gets streched.
+Those icons scale with the size of the element. Since there are two tabs even in the text-less version it gets stretched.
 <br><br>

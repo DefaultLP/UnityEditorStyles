@@ -13,8 +13,9 @@ This is a comprehensive list of all the GUIStyles accessible via `GUI.skin.custo
 [Usage](#usage) •
 [FAQ](#faq) •
 
-
 </div><br>
+
+![Preview](preview.png)
 
 ## A Word of Warning
 
